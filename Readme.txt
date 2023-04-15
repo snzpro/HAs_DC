@@ -1,7 +1,7 @@
 April 15, 2023
 
 
-Exp: This subdirectory contains codes for the experiment (solving problem (5.1)) in our paper.	
+This subdirectory contains codes for the experiment (solving problem (5.1)) in our paper.	
 
 
 	HA.m			Algorithm 1 proposed in our paper
